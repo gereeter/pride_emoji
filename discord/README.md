@@ -1,4 +1,4 @@
-[Discord](https://discordapp.com) uses the [Twemoji](https://github.com/twitter) set rasterized to 32x32 images and supports custom emoji that are automatically resized to 32x32.
+[Discord](https://discordapp.com) uses the [Twemoji](https://twemoji.twitter.com) set rasterized to 32x32 images and supports custom emoji that are automatically resized to 32x32.
 
 ## Notes
 

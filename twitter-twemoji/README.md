@@ -1,4 +1,4 @@
-Based on Twitter's [Twemoji](https://github.com/twitter/twemoji).
+Based on Twitter's [Twemoji](https://twemoji.twitter.com) ([source code](https://github.com/twitter/twemoji)).
 
 ## Notes
 
@@ -12,4 +12,4 @@ Based on Twitter's [Twemoji](https://github.com/twitter/twemoji).
 
 ## License
 
-This folder contains designs derivitave of the [Twemoji](https://github.com/twitter/twemoji) set, licensed by Twitter Inc and other contributors under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). The [pride flag](pride_flag.svg) is an exact copy of Twemoji's Rainbow Flag, and the [trans flag](trans_flag.svg) is a slight modification of the original.
+This folder contains designs derivitave of the [Twemoji](https://twemoji.twitter.com) set, licensed by Twitter Inc and other contributors under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). The [pride flag](pride_flag.svg) is an exact copy of Twemoji's Rainbow Flag, and the [trans flag](trans_flag.svg) is a slight modification of the original.

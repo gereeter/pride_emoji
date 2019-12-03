@@ -1,4 +1,4 @@
-[Slack](https://slack.com) uses the [Noto Emoji](https://github.com/googlefonts/noto-emoji) set on all systems but macOS and ioOS and supports custom emoji as rasterized images up to 128x128.
+[Slack](https://slack.com) uses the [Noto Emoji](https://www.google.com/get/noto/help/emoji/) set on all systems but macOS and ioOS and supports custom emoji as rasterized images up to 128x128.
 
 ## Notes
 
