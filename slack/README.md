@@ -4,7 +4,7 @@
 
 - The [pride flag](pride_flag.png) is provided for completeness despite being already available as `:rainbow_flag:`.
 - Since there is no clear optimal custom emoji size (the builtin ones have multiple different sizes), images are rasterized to the maximum (128x128).
-- Rasterization is done using the ImageMagick command `convert -backgroundd none -density 1536 -scane 128x128 google-noto/{}.svg slack/{}.png`.
+- Rasterization is done using the ImageMagick command `convert -background none -density 1536 -scale 128x128 google-noto/{}.svg slack/{}.png`.
 
 ## License
 
